@@ -1,0 +1,176 @@
+{
+  "Header": {
+    "title": "Upload. Detect. Protect.",
+    "paragraph": "Use AI to detect plant disease instantly from images"
+  },
+  "About": {
+    "paragraph": "This project focuses on advancing plant health monitoring by leveraging deep learning techniques for early and accurate disease detection. A powerful EfficientNet-based Convolutional Neural Network (CNN) has been designed to classify various plant diseases from leaf images with remarkable precision. The trained model is seamlessly integrated into a user-centric desktop application, offering an intuitive platform for real-time plant disease diagnosis. Users simply upload images of affected leaves and instantly receive detailed classification results. By facilitating timely detection and diagnosis, this tool empowers farmers and agricultural specialists to respond quickly to plant health threats, ultimately enhancing crop yield, minimizing losses, and supporting more sustainable agricultural practices.",
+    "Why": [
+      
+    ],
+    "Why2": [
+      
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Plant Disease",
+      "largeImage": "img/portfolio/large1.jpg",
+      "smallImage": "img/portfolio/large1.jpg"
+    },
+    {
+      "title": "Plant Disease",
+      "largeImage": "img/portfolio/large2.jpg",
+      "smallImage": "img/portfolio/large2.jpg"
+    },
+    {
+      "title": "Plant Disease",
+      "largeImage": "img/portfolio/large3.jpg",
+      "smallImage": "img/portfolio/large3.jpg"
+    },
+    {
+      "title": "Plant Disease",
+      "largeImage": "img/portfolio/large4.jpg",
+      "smallImage": "img/portfolio/large4.jpg"
+    },
+    {
+      "title": "Plant Disease",
+      "largeImage": "img/portfolio/large5.jpg",
+      "smallImage": "img/portfolio/large5.jpg"
+    },
+    {
+      "title": "Plant Disease",
+      "largeImage": "img/portfolio/large6.jpg",
+      "smallImage": "img/portfolio/large6.jpg"
+    },
+    {
+      "title": "Plant Disease",
+      "largeImage": "img/portfolio/large7.jpg",
+      "smallImage": "img/portfolio/large7.jpg"
+    },
+    {
+      "title": "Plant Disease",
+      "largeImage": "img/portfolio/large8.jpg",
+      "smallImage": "img/portfolio/large8.jpg"
+    },
+    {
+      "title": "Plant Disease",
+      "largeImage": "img/portfolio/large9.jpg",
+      "smallImage": "img/portfolio/large9.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-leaf",
+      "name": "Environmental Impact Reduction",
+      "text": "Helps reduce the environmental impact by preventing disease spread."
+    },
+    {
+      "icon": "fa fa-recycle",
+      "name": "Sustainability in Agriculture",
+      "text": "Improves the sustainability of agriculture by minimizing pesticide use"
+    },
+    {
+      "icon": "fa fa-users",
+      "name": "Farmer Decision Support",
+      "text": "Helps farmers make informed decisions to prevent crop damage."
+    },
+
+
+    {
+      
+    },
+    {
+      
+    },
+    {
+      
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    
+      {
+        "icon": "fa fa-leaf",
+        "title": "AI-Powered Detection",
+        "text": "Leverages advanced algorithms"
+      },
+      {
+        "icon": "fa fa-pagelines",
+        "title": "Multiple Plant Support",
+        "text": "Identifies diseases in various plants"
+      },
+      {
+        "icon": "fa fa-clock-o",
+        "title": "Instant Results",
+        "text": "Get predictions in seconds"
+      },
+      {
+        "icon": "fa fa-heart",
+        "title": "Remedy Suggestions",
+        "text": "Provides treatment options"
+      }
+    
+  ]
+}

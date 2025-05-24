@@ -1,0 +1,284 @@
+{
+    "Apple___Apple_scab": {
+      "cause": "Apple scab is caused by the fungus Venturia inaequalis. This fungus infects various plants within the rose family, including apples, crabapples, mountain ash, and pear. The disease manifests as dark, irregularly shaped lesions on foliage, blossoms, and developing fruits.",
+      "solution": "To manage apple scab, a combination of preventive measures and treatments is effective. This includes choosing resistant apple varieties, pruning for good air circulation, removing fallen leaves, and applying fungicides when needed. Early preventative fungicide applications, like those using copper or sulfur, can be particularly beneficial.",
+      "fertilizer": "fixed copper, Bordeaux mixtures, copper soaps (copper octanoate), sulfur, mineral or neem oils, and myclobutani."
+    },
+
+    "Apple___Black_rot": {
+      "cause": "Apple black rot is caused by the fungus Botryosphaeria obtusa. The fungus infects leaves, fruit, and branches and overwinters in infected plant parts, spreading spores in spring.",
+      "solution": "To manage Apple black rot, remove infected parts, apply appropriate fungicides, use disease-resistant cultivars, and maintain good tree hygiene.",
+      "fertilizer": "Apply fungicides like chlorothalonil, mancozeb, or copper-based fungicides during the growing season to control the disease."
+    },
+
+    "Apple___Cedar_apple_rust": {
+      "cause": "Cedar apple rust is caused by the fungus Gymnosporangium juniper-virginianae. It requires both apple and juniper trees to complete its life cycle, with spores moving between the two trees.",
+      "solution": "To manage cedar apple rust, remove infected leaves, prune nearby juniper trees, and apply fungicides during the growing season.",
+      "fertilizer": "Use fungicides like myclobutanil, captan, or sulfur to control the spread of cedar apple rust."
+    },
+
+    "Apple___healthy": {
+      "cause": "A healthy apple tree is free from disease and pests, thriving under proper care with good soil, adequate water, and sufficient sunlight.",
+      "solution": "To maintain apple tree health, ensure proper watering, pruning, and protection from pests and diseases. Apply organic fertilizers and mulch to support growth.",
+      "fertilizer": "No pesticide is needed for healthy apple trees unless pests or diseases are detected."
+    },
+
+    "Blueberry___healthy": {
+      "cause": "A healthy blueberry plant is free from disease and pests, thriving in acidic, well-drained soil with adequate sunlight and water.",
+      "solution": "To maintain blueberry plant health, ensure proper care by providing acidic soil, regular watering, and pruning to remove dead or damaged branches. Mulch around the base to retain moisture.",
+      "fertilizer": "No pesticide is needed for healthy blueberry plants unless pests or diseases are detected."
+    },
+
+    "Cherry_(including_sour)___Powdery_mildew": {
+      "cause": "Powdery mildew in cherries is caused by the fungus Podosphaera clandestina. The disease affects leaves, flowers, and fruit, causing a white, powdery coating on plant surfaces.",
+      "solution": "To control powdery mildew, remove and destroy infected plant parts, apply fungicides, and ensure proper air circulation around the plant. Avoid overhead watering to reduce humidity around the plant.",
+      "fertilizer": "Use a fungicide containing sulfur or myclobutanil, and apply it as recommended during the growing season."
+    },
+
+    "Cherry_(including_sour)___healthy": {
+      "cause": "Healthy cherry trees are free from diseases and pests. Proper care, including adequate sunlight, watering, and soil nutrients, promotes their growth.",
+      "solution": "To maintain healthy cherry trees, ensure they receive proper irrigation, sunlight, and nutrients. Prune dead or diseased branches regularly, and protect them from pests and diseases through integrated management practices.",
+      "fertilizer": "If necessary, use insecticides like neem oil or horticultural oils to manage pests. However, a healthy cherry tree typically requires minimal pesticide use."
+    },
+
+    "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+      "cause": "Cercospora leaf spot, also known as gray leaf spot, is caused by the fungus Cercospora zeae-maydis. It primarily affects corn leaves, causing grayish lesions with dark brown borders. The fungus thrives in hot, humid conditions.",
+      "solution": "To manage gray leaf spot, practice crop rotation, remove infected plant debris, and select resistant corn varieties. Fungicide applications can help control the disease, especially in areas with frequent rain and high humidity.",
+      "fertilizer": "Apply fungicides such as chlorothalonil or azoxystrobin to control the spread of the fungus and protect healthy plant tissue."
+    },
+
+    "Corn_(maize)___Common_rust_": {
+      "cause": "Common rust in corn is caused by the fungus Puccinia sorghi. It affects the leaves, husks, and kernels of the corn plant, producing orange-red pustules that can reduce photosynthesis and yield.",
+      "solution": "To control common rust, use resistant corn varieties, practice crop rotation, and remove infected plant material. Fungicide applications can help manage the disease, particularly during early stages of infection.",
+      "fertilizer": "Apply fungicides such as chlorothalonil or tebuconazole at the onset of symptoms to control the spread of rust and protect healthy plant tissue."
+    },
+
+    "Corn_(maize)___Northern_Leaf_Blight": {
+      "cause": "Northern Leaf Blight is caused by the fungus Exserohilum turcicum. It affects the leaves of corn plants, causing long, grayish-green lesions that eventually turn brown. These lesions can reduce photosynthesis, leading to yield loss.",
+      "solution": "Control Northern Leaf Blight by planting resistant corn varieties, practicing crop rotation, and removing infected plant debris. Fungicide applications can be effective if applied at the right time.",
+      "fertilizer": "Apply fungicides like chlorothalonil or azoxystrobin during the early stages of infection to control the disease and prevent further spread."
+    },
+
+    "Corn_(maize)___healthy": {
+      "cause": "Healthy corn plants are free from disease, growing optimally under suitable environmental conditions. They thrive in well-drained soil with proper irrigation, adequate sunlight, and balanced nutrient levels.",
+      "solution": "To maintain healthy corn plants, ensure proper soil preparation, crop rotation, and optimal spacing. Regular monitoring and control of pests and diseases also contribute to healthy growth.",
+      "fertilizer": "Use a balanced fertilizer like 20-10-10 during the growing season to support healthy growth and maximize yield."
+    },
+
+    "Grape___Black_rot": {
+      "cause": "Grape Black Rot is caused by the fungus Guignardia bidwellii. It affects grapevines, causing dark, sunken lesions on fruit, leaves, and stems. High humidity and rain favor the development of the disease.",
+      "solution": "To manage Black Rot, remove and destroy infected plant material, apply suitable fungicides, and use disease-resistant grapevine varieties. Practice good vineyard hygiene and avoid overhead irrigation.",
+      "fertilizer": "Apply fungicides such as mancozeb or thiophanate-methyl at the beginning of bloom to prevent and control the spread of Black Rot."
+    },
+
+    "Grape___Esca_(Black_Measles)": {
+      "cause": "Grape Esca (Black Measles) is caused by the fungal pathogens Phaeomoniella chlamydospora and Phaeoacremonium species. It causes severe decline in grapevines, leading to vine death. Symptoms include dark streaks in the wood, yellowing of leaves, and premature leaf drop.",
+      "solution": "To manage Esca, remove and destroy infected wood, prune affected vines, and apply appropriate fungicides. Select resistant cultivars and avoid high humidity conditions. Maintaining good vineyard hygiene and proper irrigation practices is key to preventing the disease.",
+      "fertilizer": "Apply fungicides like azoxystrobin or fludioxonil during the growing season to control the spread of Esca."
+    },
+
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+      "cause": "Grape Leaf blight (Isariopsis Leaf Spot) is caused by the fungus Isariopsis clavispora. This disease leads to spots on leaves and can cause premature leaf drop, which weakens the vine and reduces grape production.",
+      "solution": "To manage Leaf Blight, remove and destroy infected leaves, apply appropriate fungicides, and use resistant grape varieties. Ensure proper vineyard hygiene and avoid wetting the foliage with irrigation.",
+      "fertilizer": "Apply fungicides like sulfur or copper-based products to control Isariopsis Leaf Spot."
+    },
+
+    "Grape___healthy": {
+      "cause": "Healthy grapevines are free from disease, thriving under optimal conditions with proper care, soil, and sunlight.",
+      "solution": "Maintain healthy grapevines with proper care, regular monitoring for pests and diseases, and optimal spacing.",
+      "fertilizer": "Use a balanced fertilizer during the growing season to support healthy growth and maximize yield."
+    },
+
+    "Orange___Haunglongbing_(Citrus_greening)": {
+        "cause": "Citrus greening is caused by a bacteria called Candidatus Liberibacter. It spreads through insect vectors like the Asian citrus psyllid.",
+        "solution": "To manage citrus greening, control psyllid populations, remove infected trees, and consider chemical treatments where applicable. Resistant rootstocks and improved varieties may also help.",
+        "fertilizer": "Use balanced fertilizers that promote healthy tree growth, but avoid excessive nitrogen, as it can exacerbate symptoms of greening."
+    },
+
+    "Peach___Bacterial_spot": {
+        "cause": "Bacterial spot is caused by the bacterium Xanthomonas campestris pv. pruni, which infects peach trees, especially during rainy conditions.",
+        "solution": "To control bacterial spot, remove infected leaves, prune affected areas, and apply copper-based bactericides or antibiotics.",
+        "fertilizer": "Apply balanced fertilizers to support tree growth, avoiding excessive nitrogen that can make trees more susceptible to the disease."
+    },
+
+    "Peach___healthy": {
+      "cause": "A healthy peach tree exhibits strong growth, no signs of disease, and produces fruit without infection.",
+      "solution": "Maintain tree health by providing appropriate water, pruning, and disease prevention measures. Use proper pest management strategies.",
+      "fertilizer": "Apply a balanced fertilizer to encourage healthy growth and fruit production."
+    },
+
+    "Pepper,_bell___Bacterial_spot": {
+      "cause": "Bacterial spot in bell peppers is caused by Xanthomonas campestris pv. vesicatoria. It leads to dark, water-soaked lesions on the leaves and fruit.",
+      "solution": "Remove infected plants, practice crop rotation, and apply copper-based bactericides. Avoid overhead irrigation to minimize spread.",
+      "fertilizer": "Use balanced fertilizers and ensure good soil drainage. Avoid excessive nitrogen, which can encourage excessive leaf growth."
+    },
+
+    "Pepper,_bell___healthy": {
+      "cause": "A healthy bell pepper plant shows vigorous growth, abundant fruiting, and no signs of disease or pest infestation.",
+      "solution": "To maintain health, ensure adequate watering, avoid overcrowding, and implement pest and disease management strategies.",
+      "fertilizer": "Fertilize with a balanced fertilizer to support fruit production and overall plant health."
+    },
+
+    "Potato___Early_blight": {
+      "cause": "Early blight is caused by the fungus Alternaria solani, which affects potato leaves, causing brown spots with concentric rings.",
+      "solution": "To control early blight, rotate crops, remove infected plants, and apply fungicides such as chlorothalonil.",
+      "fertilizer": "Use a balanced fertilizer to support healthy growth and avoid excessive nitrogen that can make plants more vulnerable to the disease."
+    },
+
+    "Potato___Late_blight": {
+      "cause": "Late blight is caused by the oomycete pathogen Phytophthora infestans, leading to rapid plant death and brown lesions on leaves.",
+      "solution": "Apply fungicides like mancozeb, practice crop rotation, and remove infected plants immediately to reduce disease spread.",
+      "fertilizer": "Use well-balanced fertilizers that promote root and tuber growth. Avoid excessive nitrogen, which can encourage foliage growth and disease."
+    },
+
+    "Potato___healthy": {
+      "cause": "A healthy potato plant shows strong growth, no signs of pests or diseases, and develops healthy tubers.",
+      "solution": "Ensure good soil health, appropriate irrigation, and effective pest management to maintain plant health.",
+      "fertilizer": "Apply balanced fertilizers to promote healthy plant growth and optimal tuber production."
+    },
+
+    "Raspberry___healthy": {
+      "cause": "Healthy raspberry plants are vigorous, produce abundant fruit, and show no signs of disease or pest infestation.",
+      "solution": "Maintain plant health by providing proper watering, pruning, and pest management practices.",
+      "fertilizer": "Use balanced fertilizers to support healthy fruit development and overall plant vigor."
+    },
+
+    "Soybean___healthy": {
+      "cause": "Healthy soybean plants exhibit strong, consistent growth with no signs of disease, pests, or nutrient deficiencies.",
+      "solution": "Ensure proper soil health, control weeds, and apply appropriate pest management strategies to maintain plant health.",
+      "fertilizer": "Use balanced fertilizers, particularly those with adequate nitrogen for optimal plant growth."
+    },
+
+    "Squash___Powdery_mildew": {
+      "cause": "Powdery mildew is caused by the fungus Podosphaera xanthii, which affects squash leaves and stems, leading to white, powdery spots.",
+      "solution": "Control powdery mildew by removing affected leaves, ensuring proper spacing, and applying fungicides like sulfur or potassium bicarbonate.",
+      "fertilizer": "Use balanced fertilizers, and avoid excessive nitrogen, which can promote excessive leaf growth susceptible to mildew."
+    },
+
+    "Strawberry___Leaf_scorch": {
+      "cause": "Leaf scorch in strawberries is typically caused by environmental stress, excessive heat, or fungal infections.",
+      "solution": "Provide adequate irrigation, reduce stress, and apply fungicides when necessary to control underlying fungal causes.",
+      "fertilizer": "Apply balanced fertilizers to support healthy plant growth, but avoid over-fertilizing with nitrogen, which can contribute to stress."
+    },
+
+    "Strawberry___healthy": {
+      "cause": "Healthy strawberry plants exhibit vibrant growth, no signs of pests or diseases, and produce high-quality fruit.",
+      "solution": "Maintain plant health through good irrigation practices, pest management, and regular monitoring for diseases.",
+      "fertilizer": "Use balanced fertilizers, particularly those with sufficient phosphorus and potassium, to encourage flowering and fruiting."
+    },
+
+    "Tomato___Bacterial_spot": {
+      "cause": "Bacterial spot is caused by Xanthomonas campestris pv. vesicatoria, leading to water-soaked lesions on tomato leaves.",
+      "solution": "Use disease-resistant varieties, apply copper-based bactericides, and practice crop rotation.",
+      "fertilizer": "Use balanced fertilizers to promote healthy growth and avoid excessive nitrogen."
+    },
+
+    "Tomato___Early_blight": {
+      "cause": "Early blight in tomatoes is caused by the fungus Alternaria solani, resulting in dark, sunken spots on the leaves and fruit.",
+      "solution": "Remove infected leaves, practice crop rotation, and apply fungicides such as chlorothalonil or mancozeb.",
+      "fertilizer": "Apply balanced fertilizers to promote healthy growth while avoiding excessive nitrogen."
+    },
+
+    "Tomato___Late_blight": {
+      "cause": "Late blight in tomatoes is caused by Phytophthora infestans, leading to rapid wilting and dark lesions on the leaves.",
+      "solution": "Use fungicides like copper or chlorothalonil, remove infected plants, and practice crop rotation.",
+      "fertilizer": "Fertilize with a balanced fertilizer to support healthy growth and tuber development."
+    },
+
+    "Tomato___Leaf_Mold": {
+      "cause": "Leaf mold is caused by the fungus Passalora fulva, which results in yellowing and mold growth on the underside of tomato leaves.",
+      "solution": "Remove infected leaves, improve air circulation, and apply fungicides.",
+      "fertilizer": "Use balanced fertilizers to support plant health and avoid excess nitrogen, which can exacerbate the disease."
+    },
+
+    "Tomato___Septoria_leaf_spot": {
+      "cause": "Septoria leaf spot is caused by the fungus Septoria lycopersici, resulting in small, circular spots with dark borders on tomato leaves.",
+      "solution": "Remove infected leaves, practice crop rotation, and apply fungicides such as chlorothalonil.",
+      "fertilizer": "Apply a balanced fertilizer to maintain healthy plant growth, avoiding excessive nitrogen."
+    },
+
+    "Tomato___Spider_mites_Two-spotted_spider_mite": {
+      "cause": "Spider mites, particularly the two-spotted spider mite, cause damage to tomatoes by sucking cell contents, resulting in stippling and leaf discoloration.",
+      "solution": "Control spider mites by using insecticidal soap, introducing natural predators like predatory mites, or applying miticides.",
+      "fertilizer": "Use balanced fertilizers, and avoid over-fertilizing with nitrogen, which can exacerbate mite problems."
+    },
+
+    "Tomato___Target_Spot": {
+      "cause": "Target spot in tomatoes is caused by the fungus Corynespora cassiicola, leading to circular, dark lesions with light centers on the leaves.",
+      "solution": "Remove infected leaves, practice crop rotation, and apply fungicides such as chlorothalonil.",
+      "fertilizer": "Use balanced fertilizers to support plant health and avoid over-fertilizing with nitrogen."
+    },
+
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+      "cause": "This virus is spread by whiteflies and causes yellowing, curling, and stunted growth in tomato plants.",
+      "solution": "Control whiteflies, remove infected plants, and use virus-resistant tomato varieties.",
+      "fertilizer": "Use balanced fertilizers that support overall plant health."
+    },
+
+    "Tomato___Tomato_mosaic_virus": {
+      "cause": "Tomato mosaic virus is transmitted by mechanical means and causes mottled yellow or green discoloration on leaves.",
+      "solution": "Remove infected plants and avoid handling healthy plants after touching infected ones.",
+      "fertilizer": "Apply balanced fertilizers to promote healthy growth, especially during recovery from infection."
+    },
+
+    "Tomato___healthy": {
+      "cause": "Healthy tomato plants exhibit strong growth, abundant fruit production, and no visible signs of disease or pest infestation.",
+      "solution": "Maintain plant health by providing proper irrigation, pest management, and disease prevention strategies.",
+      "fertilizer": "Use a balanced fertilizer to encourage fruit production and overall plant health."
+    }
+
+}
+    
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
